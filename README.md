@@ -5,5 +5,5 @@ UIRefreshControl Issue with Frank where UIRefreshControl is continuously animati
 
 To test this:
 
-1. Run ``frank launch''
-2. Run ``frankly_map frankly_map "view:'_UIRefreshControlModernReplicatorView'", "isAnimating"''
+1. Run ```frank launch'''
+2. Run ```frankly_map frankly_map "view:'_UIRefreshControlModernReplicatorView'", "isAnimating"'''

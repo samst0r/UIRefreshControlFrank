@@ -9,6 +9,8 @@ To test this:
 ```
 frank launch
 '''
+
 2. Run 
-```frankly_map frankly_map "view:'_UIRefreshControlModernReplicatorView'", "isAnimating"
+```
+frankly_map frankly_map "view:'_UIRefreshControlModernReplicatorView'", "isAnimating"
 '''
